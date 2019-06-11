@@ -1,7 +1,7 @@
 # Machine learning
 
 ## Introduction to machine learning
-- [ ] Why is ML? Why ML ?
+- [x] Why is ML? Why ML ?
 - [ ] Python Libraries for ML
 - [ ] Types of ML
   - Introduction to Supervised ML
