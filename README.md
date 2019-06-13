@@ -1,9 +1,9 @@
 # Machine learning
 
 ## Introduction to machine learning
-- [ ] Why is ML? Why ML ?
-- [ ] Python Libraries for ML
-- [ ] Types of ML
+- [x] Why is ML? Why ML ?
+- [x] Python Libraries for ML
+- [x] Types of ML
   - Introduction to Supervised ML
   - Introduction to UnSupervised ML
   - Introduction to Reinforcement ML
@@ -15,24 +15,24 @@
   - Mode
   - Z-Scores
   - bias -variance dichotomy
-- [ ] Tools required for developement
+- [x] Tools required for developement
   - Anaconda
   - Jupyter NB
   
 ## ML Libraries Explained
 - [ ] Scipy
-- [ ] Numpy
-- [ ] Matplotlib
-- [ ] Pandas
+- [x] Numpy
+- [x] Matplotlib
+- [x] Pandas
 - [ ] Seaborn
-- [ ] Scikit-learn
+- [x] Scikit-learn
 - [ ] ML Glossary - Variable types, k-fold, CV, AUC
 - [ ] F1 score, Overfitting / Underfitting, Generalization
 - [ ] Data split and hyper parameter training
 - [ ] Data wrangling using Pandas
-- [ ] Preprocessing data and feature engineering
+- [x] Preprocessing data and feature engineering
 - [ ] Exploratory Data analysis using Visualization
-- [ ] Scikit-learn Library for ML
+- [x] Scikit-learn Library for ML
 - [ ] Code Exercises
 
 ## Supervised Learning
